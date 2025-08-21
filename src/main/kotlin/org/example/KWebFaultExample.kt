@@ -1,6 +1,6 @@
 package org.example
 
-import JWebFaultExample.webFaultExceptionInJava
+import org.example.JWebFaultExample.webFaultExceptionInJava
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.future.await
