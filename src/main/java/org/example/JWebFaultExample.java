@@ -1,3 +1,5 @@
+package org.example;
+
 import org.taymyr.lagom.soap.WebFaultException;
 
 import java.util.concurrent.CompletableFuture;
